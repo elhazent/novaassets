@@ -2,8 +2,16 @@
     "status": 200,
     "message": "Success",
     "data":[
-        "https://raw.githubusercontent.com/elhazent/novaassets/main/splash-1.png",
-        "https://raw.githubusercontent.com/elhazent/novaassets/main/splash-2.png",
-        "https://raw.githubusercontent.com/elhazent/novaassets/main/splash-3.png"
+        {
+            "id":1,
+            "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-1.png"
+        },{
+            "id":2,
+            "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-2.png"
+        },
+        {
+            "id":3,
+            "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-3.png"
+        }
     ]
 }
