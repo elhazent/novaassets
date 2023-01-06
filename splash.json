@@ -1,0 +1,9 @@
+{
+    "status": 200,
+    "message": "Success",
+    "data":[
+        "https://raw.githubusercontent.com/elhazent/novaassets/main/splash-1.png",
+        "https://raw.githubusercontent.com/elhazent/novaassets/main/splash-2.png",
+        "https://raw.githubusercontent.com/elhazent/novaassets/main/splash-3.png"
+    ]
+}
