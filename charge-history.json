@@ -5,7 +5,7 @@
     {
         "id":1,
         "type":"Full Charge",
-        "date":"1673151784",
+        "date":1673185210283,
         "energy_delivered":27.5,
         "duration":15000,
         "amount":38.500
@@ -13,7 +13,7 @@
     {
         "id":2,
         "type":"Full Charge",
-        "date":"1673151784",
+        "date":1673185242476,
         "energy_delivered":27.5,
         "duration":15000,
         "amount":38.500
