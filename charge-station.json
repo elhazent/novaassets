@@ -1,0 +1,26 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": [
+    {
+        "id":1,
+        "image":"https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2022/06/24145725/Tempat-cas-mobil-listrik.jpeg",
+        "name":"Charging Point at Alun-alun Surabaya"
+    },
+    {
+        "id":2,
+        "image":"https://asset.kompas.com/crops/5HT9m_nqgKE05KryegXyU4nJwj0=/0x0:780x520/780x390/data/photo/2021/11/22/619aef97ec96e.jpeg",
+        "name":"Charging Point at Mall of Indonesia"
+    },
+    {
+        "id":1,
+        "image":"https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2022/06/24145725/Tempat-cas-mobil-listrik.jpeg",
+        "name":"Charging Point at Wuling Cengkareng"
+    },
+    {
+        "id":2,
+        "image":"https://asset.kompas.com/crops/5HT9m_nqgKE05KryegXyU4nJwj0=/0x0:780x520/780x390/data/photo/2021/11/22/619aef97ec96e.jpeg",
+        "name":"Charging Point at Hotel Ambarukmo Plaza"
+    }
+  ]
+}
