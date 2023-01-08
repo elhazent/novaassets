@@ -1,59 +1,72 @@
 {
-    "status": 200,
-    "message": "Success",
-    "data":{
-        "top_services":[
-            {
-                "id":1,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-charge-location.png"
-            },{
-                "id":2,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-charge-status.png"
-            },
-            {
-                "id":3,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-card.png"
-            },
-            {
-                "id":4,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-activity.png"
-            },
-            {
-                "id":5,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-report.png"
-            },
-            {
-                "id":6,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-charge-flow.png"
-            }
-        ],
-        "informations":[
-            {
-                "id":7,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-news.png"
-            },
-            {
-                "id":8,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-promotion.png"
-            },
-            {
-                "id":9,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-how-work.png"
-            },
-            {
-                "id":10,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-faq.png"
-            }
-        ],
-        "others":[
-            {
-                "id":11,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-community.png"
-            },
-            {
-                "id":12,
-                "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-partnership.png"
-            }
-        ]
-    }
+  "status": 200,
+  "message": "Success",
+  "data": {
+    "top_services": [
+      {
+        "id": 1,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-charge-location.png",
+        "name": "Charger Location"
+      },
+      {
+        "id": 2,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-charge-status.png",
+        "name": "Charger Status"
+      },
+      {
+        "id": 3,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-card.png",
+        "name": "Register Your Card"
+      },
+      {
+        "id": 4,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-activity.png",
+        "name": "Activity"
+      },
+      {
+        "id": 5,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-report.png",
+        "name": "Report"
+      },
+      {
+        "id": 6,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-charge-flow.png",
+        "name": "Flow Process Charging"
+      }
+    ],
+    "informations": [
+      {
+        "id": 7,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-news.png",
+        "name": "News"
+      },
+      {
+        "id": 8,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-promotion.png",
+        "name": "Promotions"
+      },
+      {
+        "id": 9,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-how-work.png",
+        "name": "How it Works"
+      },
+      {
+        "id": 10,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-faq.png",
+        "name": "FAQ"
+      }
+    ],
+    "others": [
+      {
+        "id": 11,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-community.png",
+        "name": "EV Community"
+      },
+      {
+        "id": 12,
+        "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-partnership.png",
+        "name": "Partnership"
+      }
+    ]
+  }
 }
