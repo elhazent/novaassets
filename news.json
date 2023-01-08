@@ -1,0 +1,38 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": [
+    {
+        "id":1,
+        "title":"Elon Musk on How to learn And Adapth More Faster :",
+        "date":"1673151784",
+        "author":"Rachmat Ragil",
+        "author_image":"https://st2.depositphotos.com/1006318/5909/v/600/depositphotos_59095205-stock-illustration-businessman-profile-icon.jpg",
+        "image":"https://img.inews.co.id/files/inews_new/2022/12/25/Tesla_Model_S.jpg"
+    },
+    {
+        "id":2,
+        "title":"Diam-diam Prancis Gencarkan Pemakaian Mobil Listrik?",
+        "date":"1673151784",
+        "author":"Rachmat Ragil",
+        "author_image":"https://st2.depositphotos.com/1006318/5909/v/600/depositphotos_59095205-stock-illustration-businessman-profile-icon.jpg",
+        "image":"https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2021/09/GettyImages-1325838855-1024x585.jpg"
+    },
+    {
+        "id":3,
+        "title":"Elon Musk on How to learn And Adapth More Faster :",
+        "date":"1673151784",
+        "author":"Rachmat Ragil",
+        "author_image":"https://st2.depositphotos.com/1006318/5909/v/600/depositphotos_59095205-stock-illustration-businessman-profile-icon.jpg",
+        "image":"https://img.inews.co.id/files/inews_new/2022/12/25/Tesla_Model_S.jpg"
+    },
+    {
+        "id":4,
+        "title":"Diam-diam Prancis Gencarkan Pemakaian Mobil Listrik?",
+        "date":"1673151784",
+        "author":"Rachmat Ragil",
+        "author_image":"https://st2.depositphotos.com/1006318/5909/v/600/depositphotos_59095205-stock-illustration-businessman-profile-icon.jpg",
+        "image":"https://autovista24.autovistagroup.com/wp-content/uploads/sites/5/2021/09/GettyImages-1325838855-1024x585.jpg"
+    }
+  ]
+}
