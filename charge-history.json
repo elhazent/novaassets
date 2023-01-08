@@ -1,0 +1,22 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": [
+    {
+        "id":1,
+        "type":"Full Charge",
+        "date":"1673151784",
+        "energy_delivered":27.5,
+        "duration":15000,
+        "amount":38.500
+    },
+    {
+        "id":2,
+        "type":"Full Charge",
+        "date":"1673151784",
+        "energy_delivered":27.5,
+        "duration":15000,
+        "amount":38.500
+    }
+  ]
+}
