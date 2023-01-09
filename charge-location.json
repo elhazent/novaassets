@@ -13,7 +13,7 @@
       "box": 4
     },
     {
-      "id": 1,
+      "id": 2,
       "image": "https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2022/06/24145725/Tempat-cas-mobil-listrik.jpeg",
       "name": "Charging Point at Palmerah",
       "rating": 3.5,
@@ -23,7 +23,7 @@
       "box": 4
     },
     {
-      "id": 1,
+      "id": 3,
       "image": "https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2022/06/24145725/Tempat-cas-mobil-listrik.jpeg",
       "name": "Charging Point at Mall Sedayu",
       "rating": 3.5,
@@ -33,7 +33,7 @@
       "box": 4
     },
     {
-      "id": 1,
+      "id": 4,
       "image": "https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2022/06/24145725/Tempat-cas-mobil-listrik.jpeg",
       "name": "Charging Point at Mangga Dua",
       "rating": 3.5,
