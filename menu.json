@@ -6,66 +6,78 @@
       {
         "id": 1,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-charge-location.png",
-        "name": "Charger Location"
+        "name": "Charger Location",
+        "route":"/charge/location"
       },
       {
         "id": 2,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-charge-status.png",
-        "name": "Charger Status"
+        "name": "Charger Status",
+        "route":"/charge/status"
       },
       {
         "id": 3,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-card.png",
-        "name": "Register Your Card"
+        "name": "Register Your Card",
+        "route":null
       },
       {
         "id": 4,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-activity.png",
-        "name": "Activity"
+        "name": "Activity",
+        "route":null
       },
       {
         "id": 5,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-report.png",
-        "name": "Report"
+        "name": "Report",
+        "route":null
       },
       {
         "id": 6,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-charge-flow.png",
-        "name": "Flow Process Charging"
+        "name": "Flow Process Charging",
+        "route":null
       }
     ],
     "informations": [
       {
         "id": 7,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-news.png",
-        "name": "News"
+        "name": "News",
+        "route":null
       },
       {
         "id": 8,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-promotion.png",
-        "name": "Promotions"
+        "name": "Promotions",
+        "route":null
       },
       {
         "id": 9,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-how-work.png",
-        "name": "How it Works"
+        "name": "How it Works",
+        "route":null
       },
       {
         "id": 10,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-faq.png",
-        "name": "FAQ"
+        "name": "FAQ",
+        "route":null
       }
     ],
     "others": [
       {
         "id": 11,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-community.png",
-        "name": "EV Community"
+        "name": "EV Community",
+        "route":null
       },
       {
         "id": 12,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-partnership.png",
-        "name": "Partnership"
+        "name": "Partnership",
+        "route":null
       }
     ]
   }
