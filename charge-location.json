@@ -1,0 +1,46 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": [
+    {
+      "id": 1,
+      "image": "https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2022/06/24145725/Tempat-cas-mobil-listrik.jpeg",
+      "name": "Charging Point at ICON+ Mampang Prapatan",
+      "rating": 3.5,
+      "lat": -6.2351279,
+      "long": 106.8216088,
+      "review": 1234,
+      "box": 4
+    },
+    {
+      "id": 1,
+      "image": "https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2022/06/24145725/Tempat-cas-mobil-listrik.jpeg",
+      "name": "Charging Point at Palmerah",
+      "rating": 3.5,
+      "lat": -6.2152371,
+      "long": 106.791768,
+      "review": 1234,
+      "box": 4
+    },
+    {
+      "id": 1,
+      "image": "https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2022/06/24145725/Tempat-cas-mobil-listrik.jpeg",
+      "name": "Charging Point at Mall Sedayu",
+      "rating": 3.5,
+      "lat": -6.1454976,
+      "long": 106.7295285,
+      "review": 1234,
+      "box": 4
+    },
+    {
+      "id": 1,
+      "image": "https://s3.ap-southeast-1.amazonaws.com/moladin.assets/blog/wp-content/uploads/2022/06/24145725/Tempat-cas-mobil-listrik.jpeg",
+      "name": "Charging Point at Mangga Dua",
+      "rating": 3.5,
+      "lat": -6.144013,
+      "long": 106.8178402,
+      "review": 1234,
+      "box": 4
+    }
+  ]
+}
