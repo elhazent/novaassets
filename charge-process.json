@@ -1,0 +1,18 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": [
+    {
+      "id":1,
+      "status":"On Charging",
+      "energy_delivered":13.5,
+      "station_name":"Ev Station Charge Mall Lipo Puri"
+    },
+    {
+      "id":2,
+      "status":"On Charging",
+      "energy_delivered":20.5,
+      "station_name":"Ev Station Charge Mall Pondok Indah"
+    }
+  ]
+}
