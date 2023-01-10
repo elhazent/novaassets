@@ -17,6 +17,22 @@
         "energy_delivered":27.5,
         "duration":15000,
         "amount":38500
+    },
+    {
+        "id":3,
+        "type":"Full Charge",
+        "date":1673197200000,
+        "energy_delivered":27.5,
+        "duration":15000,
+        "amount":38500
+    },
+    {
+        "id":4,
+        "type":"Full Charge",
+        "date":1673330799371,
+        "energy_delivered":27.5,
+        "duration":15000,
+        "amount":38500
     }
   ]
 }
