@@ -1,0 +1,35 @@
+{
+  "status": 200,
+  "message": "Success",
+  "data": [
+    { 
+      "day":"Sun",
+      "kwh":54
+    },
+    { 
+      "day":"Mon",
+      "kwh":20
+    },
+    { 
+      "day":"Tus",
+      "kwh":76
+    },
+    { 
+      "day":"Wed",
+      "kwh":12
+    },
+    { 
+      "day":"Thu",
+      "kwh":48
+    },
+    { 
+      "day":"Fri",
+      "kwh":32
+    },
+    { 
+      "day":"Sat",
+      "kwh":90
+    }
+  
+  ]
+}
