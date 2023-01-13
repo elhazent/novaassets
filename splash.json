@@ -4,14 +4,17 @@
     "data":[
         {
             "id":1,
-            "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-1.png"
+            "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-1.png",
+            "name:":"Locate Nearby Charging Stations"
         },{
             "id":2,
-            "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-2.png"
+            "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-2.png",
+            "name":"Battery Information"
         },
         {
             "id":3,
-            "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-3.png"
+            "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-3.png",
+            "name":"On Road Assistance"
         }
     ]
 }
