@@ -5,16 +5,19 @@
         {
             "id":1,
             "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-1.png",
-            "name":"Locate Nearby Charging Stations"
+            "name":"Locate Nearby Charging Stations",
+            "desc":"Easily navigate your way to available charging stations closest to you."
         },{
             "id":2,
             "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-2.png",
-            "name":"Battery Information"
+            "name":"Battery Information",
+            "desc":"Know complete information about your battery"
         },
         {
             "id":3,
             "image":"https://raw.githubusercontent.com/elhazent/novaassets/main/splash-3.png",
-            "name":"On Road Assistance"
+            "name":"On Road Assistance",
+            "desc":"24/7 Customer Support"
         }
     ]
 }
