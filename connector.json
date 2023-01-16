@@ -1,0 +1,18 @@
+{
+  "status": "200",
+  "message": "Success",
+  "data": [
+    {
+      "id": 1,
+      "nama": "Connector Type 2",
+      "status": true,
+      "illustration": "https://raw.githubusercontent.com/elhazent/novaassets/main/illustration-connector1.png"
+    },
+    {
+      "id": 2,
+      "nama": "Connector Type XXI",
+      "status": false,
+      "illustration": "https://raw.githubusercontent.com/elhazent/novaassets/main/illustration-connector1.png"
+    }
+  ]
+}
