@@ -25,13 +25,13 @@
         "id": 4,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-activity.png",
         "name": "Activity",
-        "route":null
+        "route":"/activity"
       },
       {
         "id": 5,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-report.png",
         "name": "Report",
-        "route":null
+        "route":"/report"
       },
       {
         "id": 6,
