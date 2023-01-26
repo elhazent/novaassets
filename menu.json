@@ -51,7 +51,7 @@
         "id": 8,
         "image": "https://raw.githubusercontent.com/elhazent/novaassets/main/icon-menu-promotion.png",
         "name": "Promotions",
-        "route":null
+        "route":"/promotion"
       },
       {
         "id": 9,
